@@ -26,3 +26,11 @@ function adicionar(){
 function total(){
     mensagem.innerHTML = lista.toString();
 }
+
+//O método toString() converte um array em uma string de valores(separados por vírgula).
+//O método join() permite especificar um separador:
+//O método push() adiciona um novo elemento ao final de um array.
+//Podemos usar o método unshift() incluir um novo elemento no início do array.
+//O método pop() remove o último elemento de um array.
+//Podemos usar o método shift() para remover o primeiro elemento e deslocar os demais elementos para um índice menor.
+//O método concat() cria um novo array mesclando arrays existentes.
